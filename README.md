@@ -11,3 +11,5 @@ Using their retrained model, we tested our classifier using our pretrained weigh
 
 #### Pivots 
 In the RetinaLiteClassifier.ipynb, we have it tested against other subproblems and classifiers again to see how they compare. We later reformatted the problem as Healthy vs Not Healthy and understood how the model did in that case, too.
+
+One of the pivotted end-to-end classification nets is also included in Classification_Pivot.ipynb
